@@ -1,7 +1,7 @@
 # Efficiency-analysis-Technology-s-impact-on-the-healthcare-sector
-Project for the "Productivity and Efficiency Analysis" course. (Master's degree)
+Project for the "Productivity and Efficiency Analysis" course.
 
-Master degree course in "Business Intelligence and Analytics" (Management engineering's curricula).
+Master's degree course in "Business Intelligence and Analytics" (Management engineering's curricula).
 
 ## Project's description
 The goal of the project was to develop a systematic review on the topic of 'Technology's impact on the healthcare sector' (focusing mainly on the Digital Twins technology), followed by an analytic analysis aimed at strengthening the claims of the literature on such topic, by performing an analysis on the efficiency of tech usage in that field.
